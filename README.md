@@ -5,3 +5,7 @@
 💻 Learning and building projects with HTML, CSS, and Java.  
 🌱 Passionate about technology, problem-solving, and continuous learning.  
 🚀 Excited to grow as a developer and share my journey here!
+
+## 🌐 Connect with me
+- [Portfolio](  em construcao...)  
+- [LinkedIn](www.linkedin.com/in/leticiaadsribeiro) 
